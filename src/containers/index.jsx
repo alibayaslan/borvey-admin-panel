@@ -1,0 +1,9 @@
+export { default as Dashboard } from "./Dashboard/Dashboard";
+export { default as Users } from "./Users/Users";
+export { default as Posts } from "./Posts/Posts";
+export { default as Contact } from "./Contact/Contact";
+export { default as Errors } from "./Errors/Errors";
+export { default as UserDetail } from "./UserDetail/UserDetail";
+export { default as PostDetail } from "./PostDetail/PostDetail";
+export { default as Settings } from "./Settings/Settings";
+export { default as Offers } from "./Offers/Offers";
