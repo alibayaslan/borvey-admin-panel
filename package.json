@@ -36,8 +36,8 @@
     "yup": "^1.4.0"
   },
   "devDependencies": {
-    "@types/react": "^18.0.0",
-    "@types/react-dom": "^18.0.0"
+    "@types/react": "18.3.12",   // <--- BURAYI GÜNCELLEDİK!
+    "@types/react-dom": "18.3.12" // <--- BURAYI GÜNCELLEDİK!
   },
   "scripts": {
     "start": "react-scripts start",
