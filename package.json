@@ -35,10 +35,10 @@
     "web-vitals": "^2.1.4",
     "yup": "^1.4.0"
   },
-  **"devDependencies": {**
-** "@types/react": "^18.0.0", // React 18 için uyumlu bir sürüm**
-** "@types/react-dom": "^18.0.0" // React DOM tipleri için de ekleyelim**
-  **},**
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
